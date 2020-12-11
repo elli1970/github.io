@@ -1,0 +1,19 @@
+body {
+  background-color: #8946E3;
+}
+
+.button:hover{
+	background-color:#8D9FFF;
+}
+
+.button a,a:visited,a:active{
+	color:#D9E3E3;
+}
+
+.button{
+	display:inline-block;
+	text-decoration:none;
+	padding:12px;
+	text-align:center;
+	border-radius:50px;
+}
